@@ -1,0 +1,54 @@
+<DOCTYPE html>
+<html>
+<head><title>lab1assignment</title></head>
+
+<body>
+<h1 style="font-size:300%; color:blue; text-align:center;">WELCOME</h1>
+
+<h1 style="font-size:300%; color:red; text-align:center;"><i>Vidyavardhaka College of Engineering</i></h1>
+
+<h1 style="font-size:40px; text-align:center;"><strong>Dept of Computer Science Engineering</strong></h1>
+
+<h1 style:"font-size=200%;">Desceription:</h1>
+
+<p style="border : 2px solid black;"><pre><i>IS FOR STUDENTS...
+who are innovative thinkers and  for those who want to master the world of technology.</pre> <br>Students should have strong mathematical and analytical skills to understand how digital technologies can be used as drivers of innovation.</br> This course provides a cutting-edge exploration of programming, mathematics, and analytics to create out-of-the-box designs with digital technologies necessary to drive innovation across borders and sectors.</i>
+
+
+
+<img src="vvce.jpg" alt="VVCE" >
+<a href = "https://vvce.ac.in/">VVCE</a>
+
+<h1>List of some of the Clubs in the Dept</h1>
+<ol>
+<li>DSC</li>
+<li>ACM</li>
+</ol>
+
+<h1 style="background-color:rgba(128,0,128,0.6);">Principal:DR.B.Sadashive Gowda</h1>
+
+<p> <del>NO</del> classes till 30th sept<p>
+
+<p>
+developed by <strong>Skanda</strong>
+
+<h1>Subjects in 7th sem</h1>
+
+<table style="width:100%; border: 1px solid black; border-spacing:5px">
+  <tr>
+    <th>Subjects</th>
+    <th>Sub code</th>
+</tr>
+  <tr>
+    <td>Ml</td>
+    <td>123</td>
+  </tr>
+  <tr>
+    <td>ACA</td>
+    <td>234</td>
+  </tr>
+</table>
+
+</body>
+
+</html>
